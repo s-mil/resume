@@ -96,26 +96,27 @@
 = Projects
 
 #resume-entry(
+  title: "Chevron: Cloud Central",
+  date: "January 2025 - Present",
+  description: "Developer",
+)
+
+#resume-item[
+  - Working as a technical resource creating a single pane of glass to manage Azure Policy, Cost Optimization, and Exceptions.
+  - Delivered functionality for creating and modifying the mechanism for assigning policies to service principals and subscriptions.
+
+  - Utilizing ASP.Net Core, Angular, and Azure DevOps to create a web application that utilizes Azure SQL, Azure Functions, and Azure devops.
+]
+
+#resume-entry(
   title: "Chevron Virtual Machine Right Sizing",
   date: "December 2020 - September 2022",
   description: "Designer/Developer",
 )
 
 #resume-item[
-  - Designed and implemented a thread pool library in C++ using the latest C++20 and C++23 features.
-  - Wrote extensive documentation and unit tests for the library and published it on Github.
-]
-
-#resume-entry(
-  title: "Event Bus C++ Library",
-  location: github-link("DeveloperPaul123/eventbus"),
-  date: "Sep. 2019 - Present",
-  description: "Designer/Developer",
-)
-
-#resume-item[
-  - Designed and implemented an event bus library using C++17.
-  - Wrote detailed documentation and unit tests for the library and published it on Github.
+  - Designed and implemented a KEDA driven kubernetes application to right size virtual machines in Azure utilizing Python and the Azure SDK.
+  - Created custom toolings to allow expansion of the application to other resource types in Azure like AKS, and Azure SQL.
 ]
 
 = Skills
