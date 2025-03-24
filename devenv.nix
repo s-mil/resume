@@ -1,8 +1,5 @@
 {
   pkgs,
-  lib,
-  config,
-  inputs,
   ...
 }:
 
@@ -10,15 +7,20 @@
   # https://devenv.sh/basics/
   env.GREET = "devenv";
 
+  env.TYPST_FONT_PATHS="./fonts";
+
   # https://devenv.sh/packages/
   packages = [
     pkgs.git
     pkgs.typst
     pkgs.typstyle
+    pkgs.roboto
+    pkgs.source-sans
+    pkgs.font-awesome
   ];
 
   # https://devenv.sh/languages/
-  # languages.rust.enable = true;
+  languages.typst.enable = true;
 
   # https://devenv.sh/processes/
   # processes.cargo-watch.exec = "cargo-watch";
