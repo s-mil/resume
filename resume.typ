@@ -39,27 +39,12 @@
   name: "Chevron",
   location: "Houston, TX",
   date: "June 2021 - September 2022",
-  
-
-
-
-[Delivered 18.2 MM dollars of savings in Azure in the teams first year
-],
-
-
-[Developed a functional MVP for creating  a custom resource right sizing application to compare to a SaaS tool. This product served as the launch point for other initiatives contributing to the savings above.],
-
-
-
-[Implemented the back end processes to integrate a SaaS application for right sizing virtual machines into Chevron's existing processes and enabled integration with other teams projects ],
-
-
-
-[Created automation tooling for application teams to interface and automate usage of Park My Cloud, Intersight Workload Optimizer. Increasing adoption of these cost optimization tools thereby increasing the savings we were able to achieve],
-
-
-
-[Took over maintenance of an inner-source cost optimization system for turning 'idle' virtual machines off. Continuing its savings potential until it was replaced in January of 2022 with a SaaS product Park My Cloud],
+  [Delivered 18.2 MM dollars of savings in Azure in the teams first year
+  ],
+  [Developed a functional MVP for creating  a custom resource right sizing application to compare to a SaaS tool. This product served as the launch point for other initiatives contributing to the savings above.],
+  [Implemented the back end processes to integrate a SaaS application for right sizing virtual machines into Chevron's existing processes and enabled integration with other teams projects ],
+  [Created automation tooling for application teams to interface and automate usage of Park My Cloud, Intersight Workload Optimizer. Increasing adoption of these cost optimization tools thereby increasing the savings we were able to achieve],
+  [Took over maintenance of an inner-source cost optimization system for turning 'idle' virtual machines off. Continuing its savings potential until it was replaced in January of 2022 with a SaaS product Park My Cloud],
 )
 
 #resume_heading("Projects")
