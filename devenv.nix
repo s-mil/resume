@@ -7,7 +7,8 @@
   # https://devenv.sh/basics/
   env.GREET = "devenv";
 
-  env.TYPST_FONT_PATHS="./fonts";
+  env.TYPST_FONT_PATHS = "./fonts";
+  env.TYPST_FEATURES = "html";
 
   # https://devenv.sh/packages/
   packages = [

@@ -1,4 +1,6 @@
 #import "@preview/modern-cv:0.8.0": *
+#set page(fill: none)
+
 
 #show: resume.with(
   author: (
@@ -18,7 +20,7 @@
   profile-picture: none,
   date: datetime.today().display(),
   language: "en",
-  colored-headers: true,
+  colored-headers: false,
   show-footer: false,
   paper-size: "us-letter",
 )
