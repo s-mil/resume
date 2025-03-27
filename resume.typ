@@ -13,7 +13,8 @@
         autoImport("experience"),
     ),
     stack(
-        spacing: 20pt,
+        spacing: 10pt,
+        autoImport("summary"),
         autoImport("skills"),
         autoImport("interests"),
         autoImport("projects"),

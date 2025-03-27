@@ -3,10 +3,10 @@
 #cvSection("Experience")
 
 #cvEntry(
-  title: "Software Engineer: Infrastructure as Code",
+  title: "Software Engineer",
   location: "Houston, TX",
   date: "September 2022 - Present",
-  organization: "Chevron",
+  organization: "Chevron: Infrastructure as Code",
   description: [
     - Served as a technical resource implementing a unified Azure Policy management dashboard that streamlines Cost Optimization and Exception handling. As a recent addition, delivered critical missing components for the MVP within two weeks, significantly accelerating development timelines
 
@@ -23,16 +23,16 @@
 
     - In coordination with the Cost Optimization team, successfully launched Netapp SPOT into Chevron's Azure environment, yielding \$6 million+ in savings during 2024 and projecting a further \$10 million+ in savings for 2025.
   ],
-  tags: ("Azure", "Kubernetes", "Python",  "Ansible", "Azure Devops", "AKS", "Azure Policy", "Azure Monitor",  "Microsoft Defender for Containers", )
+  //tags: ("Azure", "Kubernetes", "Python",  "Ansible", "Azure Devops", "AKS", "Azure Policy", "Azure Monitor",  "Microsoft Defender for Containers", )
 )
 
 #divider()
 
 #cvEntry(
-  title: "Software Engineer: Cloud Optimization",
+  title: "Software Engineer",
   location: "Houston, TX",
   date: "December 2020 - September 2022",
-  organization: "Chevron",
+  organization: "Chevron: Cloud Optimization",
   description: [
     - Delivered 18.2 MM dollars of savings in Azure in the teams first year
 
@@ -44,7 +44,7 @@
 
     - Took over maintenance of an inner-source cost optimization system for turning 'idle' virtual machines off. Continuing its savings potential until it was replaced in January of 2022 with a SaaS product Park My Cloud
   ],
-  tags: ("Azure", "Kubernetes", "Python",  "Ansible", "Azure Devops", "KEDA", )
+  //tags: ("Azure", "Kubernetes", "Python",  "Ansible", "Azure Devops", "KEDA", )
 )
 
 
@@ -54,7 +54,7 @@
   title: "HPC Infrastructure Analyst",
   location: "Houston, TX",
   date: "May 2019 - December 2020",
-  organization: "Chevron",
+  organization: "Chevron: HPC",
   description: [
     - Modernized an internal HPC cluster license management system to enhance maintainability and facilitate cross-departmental process improvements.
 
@@ -64,5 +64,5 @@
 
     - Conducted large-scale cleanup of outdated tools in shared directories, successfully bringing over 500 servers into compliance with security standards and enhancing maintainability.
   ],
-  tags: ("Linux", "Python", "Ansible", "Azure Devops", "HPC", "VMware")
+  //tags: ("Linux", "Python", "Ansible", "Azure Devops", "HPC", "VMware")
 )

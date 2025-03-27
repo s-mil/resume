@@ -3,6 +3,5 @@
 #cvSection("Personal Interests")
 
 #cvInterestTags(
-    tags: ("FOSS", "Self-Hosting", "NixOs", "Wildlife Conservation",),
+    tags: ("FOSS", "Self-Hosting", "NixOs", ),
 )
-

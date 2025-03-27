@@ -12,7 +12,7 @@
     linkedin: "samuel-b-miller",
 )
 
-#let headerQuote =  "Senior Software Engineer looking for a full time job"
+#let headerQuote =  ""
 
 
 

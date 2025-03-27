@@ -9,7 +9,7 @@
   description: [
     - Delivered functionality for creating and modifying the mechanism for assigning policies to service principals and subscriptions.
   ],
-  tags: ("Azure", "ASP.Net", "Angular", "SQL", "TypeScript", "C#", ),
+  //tags: ("Azure", "ASP.Net", "Angular", "SQL", "TypeScript", "C#", ),
 )
 
 #divider()
@@ -23,5 +23,5 @@
     - Designed and implemented a KEDA driven kubernetes application to right size virtual machines in Azure utilizing Python and the Azure SDK.
     - Created custom toolings to allow expansion of the application to other resource types in Azure like AKS, and Azure SQL.
   ],
-  tags: ("Azure", "Kubernetes", "Python",  "Ansible", "KEDA", )
+  //tags: ("Azure", "Kubernetes", "Python",  "Ansible", "KEDA", )
 )

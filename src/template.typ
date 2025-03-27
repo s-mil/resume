@@ -94,7 +94,7 @@
 #let entryB2Style(str) = {align(right, text(
     size: 11pt,
     weight: "medium",
-    fill: textColors.mediumGray,
+    fill: textColors.darkGray,
     style: "oblique",
     str
 ))}
@@ -117,7 +117,7 @@
 
 #let descriptionStyle(str) = {text(
     size: 10pt,
-    fill: textColors.darkGray,
+    fill: black,
     str
 )}
 
