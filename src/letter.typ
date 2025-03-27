@@ -2,19 +2,19 @@
 #show: layout
 #set text(size: 12pt)
 #set page(
-    paper: "a4",
+    paper: "letter",
     margin: (
-        left: 1.2cm,
-        right: 1.2cm,
-        top: 1.2cm,
-        bottom: 1.2cm,
+        left: 0.5in,
+        right: 0.5in,
+        top: 0.5in,
+        bottom: 0.5in,
     ),
 )
 
 #letterHeader(
-    myAddress: [12 Cours Maréchal-Joffre \ 75003 Paris, France],
+    myAddress: [19218 St Winfred Dr. \ Spring, TX 77379],
     recipientName: [ABC Company],
-    recipientAddress: [32 Rue Michel Ange \ 75011 Paris, France],
+    recipientAddress: [some address],
     date: [November 1, 2023],
     subject: "Subject: Job Application for Senior Software Engineer"
 )

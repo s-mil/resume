@@ -12,7 +12,7 @@
     linkedin: "samuel-b-miller",
 )
 
-#let headerQuote =  ""
+#let headerQuote =  "Results-driven software engineer with expertise in cloud technologies, automation, and scalable solutions."
 
 
 
