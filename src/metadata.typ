@@ -19,7 +19,7 @@
 /* Layout settings */
 #let cvLanguage = "en"
 
-#let accentColor = "mauve"
+#let accentColor = "red"
 
 #let profilePhoto = "" // Leave empty if profile photo is not needed
 
