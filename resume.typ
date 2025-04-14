@@ -9,14 +9,15 @@
     gutter: 16pt,
     stack(
         spacing: 1pt,
-        autoImport("education"),
         autoImport("experience"),
     ),
     stack(
         spacing: 10pt,
+        autoImport("education"),
         autoImport("summary"),
         autoImport("skills"),
         autoImport("interests"),
-        autoImport("projects"),
+
+        // autoImport("projects"),
     ),
 )
